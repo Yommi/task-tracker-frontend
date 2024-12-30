@@ -1,4 +1,4 @@
-const API_PREFIX = 'http://192.168.1.226:5000/api/v1';
+const API_PREFIX = 'https://mighty-beach-57880-24c5bf220069.herokuapp.com/api/';
 
 export default {
   API_PREFIX,
